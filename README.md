@@ -1,3 +1,3 @@
 # Установка визуального окружения
 ## Создания виртуального окружения
-***.\venv\Scripts\activate
+.\venv\Scripts\activate
